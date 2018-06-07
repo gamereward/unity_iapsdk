@@ -56,3 +56,6 @@ freeline_project_description.json
 *.sdf
 *.apk
 Library/
+.vs/
+Temp/
+obj/
